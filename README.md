@@ -16,7 +16,7 @@ A lightweight, multilingual network utility GUI built with Python and Tkinter.
 ## 📸 Screenshots
 
 ### Main UI
-![Main UI](images/screenshot_ui.png)
+![Main UI](Images/screenshot_ui.png)
 
 ## 🌍 Language Support
 - English
